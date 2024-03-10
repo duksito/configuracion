@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='C:/Users/fabri/fun/qira/web/client/compatibility'
+let g:netrw_dirhist_5='C:\Users\fabri\fun\chevrez'
+let g:netrw_dirhist_4='C:\Users\fabri\fun\tests'
+let g:netrw_dirhist_3='C:\Users\fabri\OneDrive\Escritorio\fun\chevrez-blogg\_posts'
+let g:netrw_dirhist_2='C:\Users\fabri\OneDrive\Escritorio\fun\chevrez-blog\test\the-chevrez-trunk\_site'
+let g:netrw_dirhist_1='C:/Users/fabri/OneDrive/Escritorio/fun/chevrez-blog/test/the-chevrez-trunk/_posts'
+let g:netrw_dirhist_0='C:\Users\fabri\OneDrive\Escritorio\fun\chevrez-blog\test\the-chevrez-trunk\_posts'
+let g:netrw_dirhist_9='C:/Users/fabri/OneDrive/Escritorio/fun/chevrez-blog/posts'
+let g:netrw_dirhist_8='C:/Users/fabri/OneDrive/Escritorio/fun/dukpedia/client'
+let g:netrw_dirhist_7='C:/Users/fabri/OneDrive/Escritorio/fabri/fabri-dev/CHEVREZ/chevrez-blog/cont-blog'
